@@ -38,7 +38,7 @@ How it was built:
 14. Linked up axios to post data.
 15. Used SearchInput dependency to add search functionality. You can search by name, location, department, job title, city, and state.
 
-Things I would have liked to do to polish this app:
+Finishing touches:
 
 1. Although I did incorporate Bootstrap, I would take more time to make the application look nice and perhaps research other employee directory sites to see what I like and dislike about their style. I would also collaborate with team members/look at what the client wants to make sure that any designs I do go with look professional.
 2. I would add a "Departments" page that lists all of the departments.
